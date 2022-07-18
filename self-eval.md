@@ -1,5 +1,8 @@
 # Self Evaluation
 
 - This final CFU encompassed everything you've learned in Mod 0, and maybe even required some learning outside of what you've explicitly been taught. How did it feel as you faced these challenges?
+   - It felt pretty rewarding to try something out and feel like I was making inroads to what I wanted to do. I started feeling a little frustrated as it felt like I was being thrown in the deep end without much guidance. But after reflecting that this is what coding actually looks like and I'm meant to be googling things I don't know(I won't have the answers to a lot of questions/projects), I felt I was productively struggling again.
 - How is your workflow going, in terms of taking breaks, staying focused, etc.?
+   - I think I can tell when I need a break. When my brain starts feeling fuzzy or I start to unproductively struggle too long. I think I can be better at proactively taking breaks so I'm feeling fresher for longer. I think my work set up is in a way where distractions are minimized.
 - What do you need to do to be ready for intense technical lessons and challenges like this, for 6 hours/day next week? What support do you need?
+   - I think I need reassurance that I will struggle. I really like that some problems are labeled "CHALLENGE" because it lets me know that when I'm struggling, its not because I'm not understanding something completely--its just meant to be hard. I also really found value in struggling with other people over video. I think if I'm having a tough time with an assignment, I'll reach out to my group to see if anyone wants to get together to work on it.
